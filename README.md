@@ -2,6 +2,8 @@
 
 A public portfolio presentation of a modular Python automation and analytics system built around API integrations, structured data processing, validation, auditing, testing and multi-agent workflow logic.
 
+
+![Python Automation & Analytics System](01_Cover.png)
 ## Overview
 
 The project demonstrates how a complex workflow can be divided into clear, independent modules while remaining easy to monitor, test and extend.
@@ -61,6 +63,10 @@ The images in this repository are public demo visualizations based on the workin
 Some names, labels, values and interface elements have been generalized for presentation.
 
 Sensitive internal information, credentials, network details and implementation-specific data are intentionally omitted.
+
+![Agent Decisions Dashboard](02_Decisions.png)
+
+![Automated Audit Dashboard](03_Audit.png)
 
 ## Technical Focus
 
